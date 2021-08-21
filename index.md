@@ -9,8 +9,8 @@ Algorithms taught Fall 2021 by [Peter Sadowski](http://www2.hawaii.edu/~psadow/)
 
 ## Contents
 
+*   **[Syllabus](syllabus.md)**: Basic course information.
 *   **[Schedule](schedule.md)**: Weekly readings/videos, problem sets, and exams.
-*   [Syllabus](syllabus.md): Overview of course and plan.
 *   [Topics](#topics): Summary of weekly topics.
 *   [Problem Sets](#problems): List of active and planned problem sets.
 *   [Exams](#exams): Planned exam dates
@@ -28,7 +28,7 @@ Algorithms taught Fall 2021 by [Peter Sadowski](http://www2.hawaii.edu/~psadow/)
 
 ## <a name="topics">Topics</a>
 
-This is not a complete schedule: see the [Schedule](Schedule.html) for that. CLRS is the Cormen Leiserson Rivest and Stein textbook.
+This is a summary, see [Schedule](schedule.md) for more detail.
 
 *   08/23 - **#1 - Introduction to Course**: CLRS Chapter 1; [Topic 01 Notes](Notes/Topic-01.html)
 *   08/25 & 30 - **#2 - Examples of Analysis with Insertion and Merge Sort**: CLRS Chapter 2; [Topic 02 Notes](Notes/Topic-02.html)
