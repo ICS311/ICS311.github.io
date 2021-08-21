@@ -5,7 +5,8 @@
 
 * * *
 -->
-## Schedule
+# [ICS 311](https://ics311.github.io/) Schedule
+
 
 #### Week 1: Introduction and Basic Concepts
 
