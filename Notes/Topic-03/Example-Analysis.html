@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>ICS 311 #03 Example Analysis </title>
+</head>
+
+
+<body>
+<hr><h2>Examples for <a href="../Topic-03.html">ICS 311 Topic 03</a></h2><hr>
+
+<h3>4<i>n</i><sup>3</sup> is &Theta;(<i>n</i><sup>3</sup>):</h3> 
+
+<p>To approach this, we start by writing out the definition of &Theta; with <i>f</i>(<i>n</i>) =
+4<i>n</i><sup>3</sup> and <i>g</i>(<i>n</i>) = <i>n</i><sup>3</sup>: Show that &exist; <i>c</i><sub>1</sub>, <i>c</i><sub>2</sub>, <i>n</i><sub>0</sub>&ge; 0 such
+that for all <i>n</i> &ge; <i>n</i><sub>0</sub>,</p> 
+<blockquote>
+<i>c</i><sub>1</sub><i>n</i><sup>3</sup> &nbsp; &le; &nbsp; 4<i>n</i><sup>3</sup> &nbsp; &le; &nbsp;
+<i>c</i><sub>2</sub><i>n</i><sup>3</sup>. 
+</blockquote> 
+
+<p> Try <i>c</i><sub>1</sub> = <i>c</i><sub>2</sub> = 4; <i>n</i><sub>0</sub> = 1:</p>
+
+<blockquote>
+4<i>n</i><sup>3</sup> &nbsp; &le; &nbsp; 4<i>n</i><sup>3</sup> &nbsp; &le; &nbsp;
+4<i>n</i><sup>3</sup>. 
+</blockquote> 
+
+<p> That was too easy! It's harder when you need to absorb a lower order term: </p>
+
+<h3>4<i>n</i><sup>3</sup> + 2<i>n</i> is &Theta;(<i>n</i><sup>3</sup>):</h3> 
+
+<p>Show that &exist; <i>c</i><sub>1</sub>, <i>c</i><sub>2</sub>, <i>n</i><sub>0</sub>&ge; 0 such
+that  &forall; <i>n</i> &ge; <i>n</i><sub>0</sub>,</p> 
+<blockquote>
+<i>c</i><sub>1</sub><i>n</i><sup>3</sup> &nbsp; &le; &nbsp;
+4<i>n</i><sup>3</sup> + 2<i>n</i> &nbsp; &le; &nbsp;
+<i>c</i><sub>2</sub><i>n</i><sup>3</sup>
+</blockquote> 
+
+<p> Try <i>c</i><sub>1</sub> = 4; <i>c</i><sub>2</sub> = 5. (I chose <i>c</i><sub>1</sub> = 4 to
+make the first term more like the second: certainly adding 2<i>n</i> will make it larger. I chose 5
+since the right hand term has to grow larger.) </p>
+<blockquote>
+4<i>n</i><sup>3</sup> &nbsp; &le; &nbsp;
+4<i>n</i><sup>3</sup> + 2<i>n</i> &nbsp; &le; &nbsp;
+5<i>n</i><sup>3</sup>
+</blockquote> 
+
+<p>Divide by <i>n</i><sup>3</sup>: </p>
+<blockquote>
+4 &nbsp; &le; &nbsp; 4 + 2/<i>n</i><sup>2</sup> &nbsp; &le; &nbsp; 5 
+</blockquote> 
+
+<p>This is true for all <i>n</i> &ge; <i>n</i><sub>0</sub> = 2, since the term
+2/<i>n</i><sup>2</sup> will always be larger than 0 (satisfying the first inequality) but less than
+1 (satisfying the second inequality). </p>
+
+<p>You should be able to do similar analyses. </p>
+
+<!-- ------------------------------------------------------------ -->
+<hr>
+<address>Dan Suthers</address>
+<!-- hhmts start -->Last modified: Mon Nov 19 18:23:20 HST 2012 <!-- hhmts end -->
+</body>
+</html>

@@ -1,0 +1,15 @@
+Dijkstra's Algorithm on this graph: 
+
+Q = [ (s,0), (x, inf), (y, inf), (z, inf) ] 
+S = { } 
+
+Q = [ (x, 2), (z, 2), (y, inf)] 
+S = {s} 
+
+Q = [ (z, 2), (y, 7) ] 
+S = {s, x} 
+
+Q = [ (y, 7), ] 
+S = {s, x, z} 
+
+z will never be re-evaluated, since it has been placed on S. 

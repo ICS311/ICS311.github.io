@@ -1,0 +1,14 @@
+runtime <- function (steps) {
+	ms <- steps / 10000
+    cat("milliseconds:", s, "\n")
+	s <- steps / 10000000 # 10^7 steps per second 
+	cat("seconds:     ", s, "\n")
+	h <- s / 60 / 60 
+	cat("hours:       ", h, "\n")
+	y <- h / 24 /365
+    cat("years:       ", y, "\n")
+    return(y)
+}
+
+runtime(2^50)
+runtime(2^100)

@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Topic 17: Kruskal Solution</title>
+</head>
+
+<body>
+<img src="Fig-23-4-Kruskal-Example-n.jpg">
+<p>More than one solution is possible: you could have chosen different
+edges weighted 7 and 8.</p>
+<p>In the textbook, the algorithm keeps going for the edges of weight
+9, 10 and 11, but it could be modified to stop after |<i>V</i>| - 1
+edges have been added.</p> 
+
+<hr>
+<address></address>
+<!-- hhmts start -->Last modified: Tue Oct 23 17:49:22 HST 2012 <!-- hhmts end -->
+</body> </html>

@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Topic 22 Race Condition Matrix Multiplication Exercise</title>
+</head>
+
+<body>
+<h2>Topic 22 Race Condition Matrix Multiplication Exercise</h2>
+
+<img src="code-P-Square-Matrix-Multiply.jpg">
+
+<p> Unlike the previous example, where <i>y</i><sub><i>i</i></sub>
+could be accessed and/or updated concurrently via different values of
+<i>j</i>, here the memory cell accessed <i>c<sub>ij</sub></i> is fully
+specified by both <i>i</i> and <i>j</i>: each parallel thread will
+access a different memory cell. </p>
+
+<hr>
+<address></address>
+<!-- hhmts start -->Last modified: Tue Apr 19 03:56:11 HST 2016 <!-- hhmts end -->
+</body> </html>

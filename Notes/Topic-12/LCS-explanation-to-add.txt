@@ -1,0 +1,13 @@
+<p>How did we get this table? Dynamic programming always builds up from the smallest problems to larger ones, so we need to understand where the smaller problems are represented in the table. Look again at the definition: </p> 
+
+<img src="Topic-12/LCS-recursive-formulation.jpg"> 
+
+<p>c[i,0] = c[0,j] = 0 &rarr; So, first fill in the "0"s that run on the left and top hand rows.</p> 
+
+<p>Now we simply run i from 1 to m and j from 1 to n, checking all combinations. This means we are building up the cells one row at a time (for each i), iterating over the j. (They put i on the rows in figure 15.8.</i> 
+
+From 15.9, if i,j > 0 and x_i = j_i then this is the case of a match: c[i,j]= c[i-1, j-1] + 1. If you find this in the code LSC-Length page 394, it is lines 10-12: this is where the diagonal arrow is put in (when we reconstruct the solution it is where we have a match). So you fill in the present cell by looking back at the values for the previous solution at cell i-1, j-1 and adding 1 (for the matched character).
+
+The case where x_i and x_j do not match is more complex: we have to compare two smaller solutions, at c[i,j-1] and c[i-1, j] and find which is larger. Then copy that into the cell at i,j.
+
+So you build up from the left and top edges down towards the lower right corner. As you go you put in the arrows too. Then  you trace the arrows back from cell m,n to get the solution.

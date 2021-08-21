@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>A Quiz</title>
+</head>
+
+<body>
+<h2>Which algorithm would you use?</h2>
+
+<p> Suppose you are faced with a computational problem and can think of two ways to solve it for an
+arbitrary number of <i>n</i> items. </p>
+<dl>
+  <dt><b>Solution A</b></dt>
+  <dd> You first think of a solution that will be very easy to program. Once written, it will take 
+    <b>2<sup><i>n</i></sup></b> steps to solve the problem for <i>n</i> items.</dd> 
+  <dt><b>Solution B</b></dt>
+  <dd> You realize another solution that is more difficult to write. Once written, it will take
+    <b>100<i>n<sup>2</sup></i></b> steps to solve the problem for <i>n</i>
+</dl>
+
+<p> For what (integer) values of <i>n</i> will Solution A be faster, and for what values will
+Solution B be faster?</p>
+
+<table width="100%" border="0">
+  <caption>
+    Comparing the growth of the two functions
+  </caption>
+  <tr>
+    <th scope="col"><div align="left">Input size</div></th>
+    <th scope="col"><div align="left">Solution A: 2<sup><i>n</i></sup></div></th>
+    <th scope="col"><div align="left">Solution B: 100<i>n<sup>2</sup></i></div></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>4</td>
+    <td>400</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>8</td>
+    <td>900</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>16</td>
+    <td>1,600</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>32</td>
+    <td>2,500</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>64</td>
+    <td>3,600</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>128</td>
+    <td>4,900</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>256</td>
+    <td>6,400</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>512</td>
+    <td><p>8,100</p>    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>1,024</td>
+    <td>10,000</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>2,048</td>
+    <td>12,100</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>4,096</td>
+    <td>14,400</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>8,192</td>
+    <td>16,900</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>16,384</td>
+    <td>19,600</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>32,768</td>
+    <td>22,500</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>65,536</td>
+    <td>25,600</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>131,072</td>
+    <td>28,900</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>262,144</td>
+    <td>32,400</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>524,288</td>
+    <td>36,100</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>1,048,576</td>
+    <td>40,000</td>
+  </tr>
+</table>
+
+<p><i>Lessons:</i> For a small problem an easy solution may be OK, but be careful not to rely on
+estimates for small values: look at the overall growth of the function describing the solution's use
+of resources.</p>
+
+<p>(I can also show you graphs of these functions.)</p> 
+
+<hr>
+<address>Dan Suthers</address>
+<!-- hhmts start -->Last modified: Tue Aug 21 02:20:24 HST 2012 <!-- hhmts end -->
+</body> </html>

@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Topic 22 Work and Span Exercise</title>
+</head>
+
+<body>
+<h2>Topic 22 Work and Span Exercise</h2>
+
+<img src="Fig-27-2-P-Fib.jpg">
+
+<p> Assuming 1 unit of work per vertex: </p>
+
+<p> Work: <i>T</i><sub>1</sub> = 17 (count the vertices)</p>
+<p> Span: <i>T</i><sub>&infin;</sub> = 8 (count the vertices on the longest path)</p> 
+
+<hr>
+<address></address>
+<!-- hhmts start -->Last modified: Tue Apr 19 03:46:48 HST 2016 <!-- hhmts end -->
+</body> </html>

@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~suthers/courses/ics311f20/Notes/Topic-12</title>
+ </head>
+ <body>
+<h1>Index of /~suthers/courses/ics311f20/Notes/Topic-12</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/~suthers/courses/ics311f20/Notes/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="shortest-path-optimal-substructure.jpg">shortest-path-optimal-substructure.jpg</a></td><td align="right">2012-10-01 23:12  </td><td align="right">6.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="recurrence-rod-cutting.jpg">recurrence-rod-cutting.jpg</a></td><td align="right">2012-09-30 16:23  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="recurrence-parenthesizations.jpg">recurrence-parenthesizations.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="merge-sort-tree.jpg">merge-sort-tree.jpg</a></td><td align="right">2012-10-01 03:54  </td><td align="right"> 28K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="merge-sort-recursive-structure.tiff">merge-sort-recursive-structure.tiff</a></td><td align="right">2012-10-01 22:44  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="merge-sort-recursive-structure.jpg">merge-sort-recursive-structure.jpg</a></td><td align="right">2012-10-01 22:44  </td><td align="right"> 19K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="longest-path-nonoptimal-substructure.jpg">longest-path-nonoptimal-substructure.jpg</a></td><td align="right">2012-10-01 23:17  </td><td align="right">6.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="equation-matrix-decomposition.jpg">equation-matrix-decomposition.jpg</a></td><td align="right">2014-03-06 23:43  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="equation-cut-rod-decomposition.jpg">equation-cut-rod-decomposition.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right">9.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="equation-BST-decomposition.tiff">equation-BST-decomposition.tiff</a></td><td align="right">2015-12-29 03:07  </td><td align="right"> 20K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="equation-BST-decomposition.jpg">equation-BST-decomposition.jpg</a></td><td align="right">2013-10-15 14:16  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="cut-rod-tree-annotated.jpg">cut-rod-tree-annotated.jpg</a></td><td align="right">2015-12-29 03:07  </td><td align="right"> 30K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="cut-rod-8-prices.jpg">cut-rod-8-prices.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="cut-rod-8-manual-solutions.jpg">cut-rod-8-manual-solutions.jpg</a></td><td align="right">2015-12-29 03:07  </td><td align="right"> 30K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="cut-rod-8-computed-solutions.jpg">cut-rod-8-computed-solutions.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-print-optimal-parens.jpg">code-print-optimal-parens.jpg</a></td><td align="right">2012-09-30 16:25  </td><td align="right"> 26K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-print-cut-rod-solution.jpg">code-print-cut-rod-solution.jpg</a></td><td align="right">2012-09-30 16:25  </td><td align="right"> 20K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-print-LCS.jpg">code-print-LCS.jpg</a></td><td align="right">2012-09-30 16:25  </td><td align="right"> 32K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-optimal-BST.jpg">code-optimal-BST.jpg</a></td><td align="right">2012-09-30 16:25  </td><td align="right"> 47K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-memoized-matrix-chain.jpg">code-memoized-matrix-chain.jpg</a></td><td align="right">2012-09-30 16:25  </td><td align="right"> 28K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-memoized-cut-rod.jpg">code-memoized-cut-rod.jpg</a></td><td align="right">2012-09-30 16:25  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-memoized-cut-rod-aux.jpg">code-memoized-cut-rod-aux.jpg</a></td><td align="right">2012-09-30 16:25  </td><td align="right"> 26K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-matrix-multiply.jpg">code-matrix-multiply.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 33K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-matrix-chain-order.jpg">code-matrix-chain-order.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 43K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-lookup-chain.jpg">code-lookup-chain.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 31K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-extended-bottom-up-cut-rod.jpg">code-extended-bottom-up-cut-rod.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 34K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-cut-rod.jpg">code-cut-rod.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 20K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-bottom-up-cut-rod.jpg">code-bottom-up-cut-rod.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 27K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="code-LCS-length.jpg">code-LCS-length.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 49K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LCS-spanking-amputation.jpg">LCS-spanking-amputation.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 39K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LCS-recursive-formulation.jpg">LCS-recursive-formulation.jpg</a></td><td align="right">2012-10-01 22:05  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LCS-recursive-formulation-cases.jpg">LCS-recursive-formulation-cases.jpg</a></td><td align="right">2020-10-18 05:30  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="LCS-explanation-to-add.txt">LCS-explanation-to-add.txt</a></td><td align="right">2012-11-01 19:34  </td><td align="right">1.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LCS-examples.jpg">LCS-examples.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 27K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LCS-4-3-recurrence-tree.jpg">LCS-4-3-recurrence-tree.jpg</a></td><td align="right">2012-10-01 03:20  </td><td align="right"> 24K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="LCS-4-3-recurrence-tree.graffle">LCS-4-3-recurrence-tree.graffle</a></td><td align="right">2012-10-01 03:28  </td><td align="right"> 76K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-11.jpg">Fig-15-11.jpg</a></td><td align="right">2012-09-30 14:59  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-10.jpg">Fig-15-10.jpg</a></td><td align="right">2012-09-30 15:00  </td><td align="right"> 36K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-9.jpg">Fig-15-9.jpg</a></td><td align="right">2012-09-30 15:00  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-8.jpg">Fig-15-8.jpg</a></td><td align="right">2012-09-30 15:00  </td><td align="right"> 23K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-7.jpg">Fig-15-7.jpg</a></td><td align="right">2012-09-30 15:00  </td><td align="right"> 20K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-6.jpg">Fig-15-6.jpg</a></td><td align="right">2012-09-30 15:00  </td><td align="right">5.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-6-alt-longest-path.jpg">Fig-15-6-alt-longest-path.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 12K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-5.jpg">Fig-15-5.jpg</a></td><td align="right">2012-09-30 15:01  </td><td align="right"> 30K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-4.jpg">Fig-15-4.jpg</a></td><td align="right">2012-09-30 15:01  </td><td align="right">7.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-4-alt-subproblem-graph.jpg">Fig-15-4-alt-subproblem-graph.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-3.jpg">Fig-15-3.jpg</a></td><td align="right">2012-09-30 15:01  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-3-alt-recursion-tree.jpg">Fig-15-3-alt-recursion-tree.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 20K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-3-alt-recursion-tree-annotated.jpg">Fig-15-3-alt-recursion-tree-annotated.jpg</a></td><td align="right">2012-10-01 23:26  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-2.jpg">Fig-15-2.jpg</a></td><td align="right">2012-09-30 14:59  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-2-alt-rod-cutting.jpg">Fig-15-2-alt-rod-cutting.jpg</a></td><td align="right">2012-09-30 16:24  </td><td align="right"> 20K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fig-15-1.jpg">Fig-15-1.jpg</a></td><td align="right">2012-09-30 14:59  </td><td align="right">6.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/layout.gif" alt="[   ]"></td><td><a href="DynamicProgramming.pdf">DynamicProgramming.pdf</a></td><td align="right">2011-10-20 02:12  </td><td align="right">2.5M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-search-expected-cost.jpg">BST-search-expected-cost.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 24K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-optimal-subtree.jpg">BST-optimal-subtree.jpg</a></td><td align="right">2012-09-30 16:26  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-optimal-substructure.jpg">BST-optimal-substructure.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-expected-search-cost-increase.jpg">BST-expected-search-cost-increase.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right">9.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-example-tree-2.jpg">BST-example-tree-2.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-example-tree-2-costs.jpg">BST-example-tree-2-costs.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-example-tree-1.jpg">BST-example-tree-1.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-example-tree-1-costs.jpg">BST-example-tree-1-costs.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-example-probabilities.jpg">BST-example-probabilities.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-cost-min-all-candidates.jpg">BST-cost-min-all-candidates.jpg</a></td><td align="right">2012-09-30 16:27  </td><td align="right"> 15K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-Homework-5-2-Probabilities.tiff">BST-Homework-5-2-Probabilities.tiff</a></td><td align="right">2012-10-03 03:05  </td><td align="right">9.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="BST-Homework-5-2-Probabilities.jpg">BST-Homework-5-2-Probabilities.jpg</a></td><td align="right">2012-10-03 03:06  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.34 (Red Hat) Server at www2.hawaii.edu Port 80</address>
+</body></html>

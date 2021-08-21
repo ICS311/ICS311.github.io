@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title></title>
+</head>
+
+<body>
+<h3>An erroneous proof</h3>
+<p>Recall that we did a tedious analysis of the worst case of insertion sort,
+ending with this formula: </p> 
+
+<img src="insertion-worst-revisited.jpg">
+<p><i>T(n)</i> can be expressed as <i>pn<sup>2</sup> + qn - r</i> for suitable
+<i>p, q, r</i> (<i>p=(c<sub>5</sub>/2 + c<sub>6</sub>/2 + c<sub>7</sub>/2),</i>
+etc.). This suggests that T(n) &isin; O(n<sup>2</sup>).</p>
+
+<p>Here is an <B>ERRONEOUS</B> proof, using
+the truth condition version of the definition of big-O:</p>
+
+<blockquote>
+f(n) = O(g(n)) iff &exist; positive constants c and N such that f(n) &le; cg(n)
+&forall; n &ge; n<sub>0</sub>. 
+</blockquote> 
+
+<p>We need to show &exist; <i>c, n<sub>0</sub></i> s.t. <i>pn<sup>2</sup> + qn - r
+&le; cn<sup>2</sup>,</i> &forall;<i>n &ge; n<sub>0</sub></i>.</p>
+<p>Note that the c<sub>i</sub>, being costs, are all positive, so p and r are
+positive, but it is possible that the term for q is negative (see formula
+above). Also note that the <i>c</i> in the definition bears no special relation
+to the <i>c<sub>i</sub></i> in the analysis of the algorithm. We are allowed to
+pick any <i>c, n<sub>0</sub></i> for which this works. </p> 
+
+<p>Let <i>c=p + |q| - r</i> and <i>n<sub>0</sub>=1</i>. Then</p>
+<blockquote> 
+<i>pn<sup>2</sup> + qn - r &le; cn<sup>2</sup></i>
+</blockquote>
+<p>can be rewritten</p>
+<blockquote>
+<i>pn<sup>2</sup> + qn - r &le; pn<sup>2</sup> + |q|n<sup>2</sup> - rn<sup>2</sup></i>,
+</blockquote>
+<p>simplified to </p>
+<blockquote> 
+qn - r &le; |q|n<sup>2</sup> - rn<sup>2</sup></i>.
+</blockquote> 
+<p>Considering the two cases where <i>q</i> is positive or negative, this clearly
+holds &forall; <i>n &ge; 1</i>.</p> 
+<p><i>Discuss:What's wrong or missing?</i></p> 
+
+<hr>
+<address>Dan Suthers</address>
+<!-- hhmts start -->Last modified: Tue Aug 30 01:47:27 HST 2011 <!-- hhmts end -->
+</body> </html>

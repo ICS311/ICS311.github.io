@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Topic 22 Parallelism Exercise</title>
+</head>
+
+<body>
+<h2>Topic 22 Parallelism Exercise</h2>
+
+<img src="Fig-27-2-P-Fib.jpg">
+
+<p> Assuming 1 unit of work per vertex, and we have already determined
+(previous exercise) that work <i>T</i><sub>1</sub> = 17 and span
+<i>T</i><sub>&infin;</sub> = 8, then ... </p>
+
+<p><b>Parallelism</b> <i>T</i><sub>1</sub> / <i>T</i><sub>&infin;</sub>=
+17/8 = 2.125. </p> 
+
+<p> We can evaluate the prospects for speedup for <tt>P-Fib(4)</tt>
+(<i>n</i>=4) under the three perspectives: </p>
+
+<ul>
+   <li><i>Ratio </i>: at most 2.125 units of work can be done in each
+   time unit of  parallel execution.</li> <br>
+  <li><i>Upper Bound </i>: Given an infinite number of processors, we achieve
+   speedup of at most 2.125.</li> <br> 
+  <li><i>Limit</i>: Beyond 3 processors we don't get any more
+   speedup (and the third processor does not add much). </li>
+</ul>
+
+<p> For example, with <i>P</i>=4 the <b>slackness</b> is
+(<i>T</i><sub>1</sub> / <i>T</i><sub>&infin;</sub>)/<i>P</i> = 2.125/4
+= 0.53125. This is less than 1 so we have more processors than we can
+make use of. </p> 
+
+<p> Note that these specific numbers are for <tt>P-Fib(4)</tt>
+(<i>n</i>=4) <em>only</em>: further analysis would be needed for the
+general case. How would the ratios change for higher <i>n</i>?
+Consider this graph for <tt>P-Fib(6)</tt> </p>
+
+<img src="Fig-27-1-Fib-Recursion-Tree-Small.jpg">
+
+<p>How is the span increasing? How are the number of vertices
+increasing? Do you expect the paralleism to increase, decrease, or
+stay the same for larger <i>n</i>?</p>
+
+<p>The next section gives us a general way to analyze this.</p> 
+
+<hr>
+<address></address>
+<!-- hhmts start -->Last modified: Tue Apr 19 02:47:23 HST 2016 <!-- hhmts end -->
+</body> </html>
+
+

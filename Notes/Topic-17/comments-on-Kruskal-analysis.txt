@@ -1,0 +1,23 @@
+Algorithms students, 
+
+This is a resolution of something I puzzled over in class Tuesday. 
+
+I questioned why the book's analysis of Kruskal's algorithm (and my lecture notes) put the term "V" in O((V + E)*alpha(V)). The text page 633 says that they do this to account for the for loop lines 2-3, which calls Make-Set V times. I was questioning why this was associated with alpha(V), since Make-Set is O(1). 
+
+I am correct that O(1) is a better bound on Make-Set than alpha(V). In fact, their Lemma 21.11 page 379 states this. Hence strictly speaking a tighter bound would be O(V + E*alpha(V)) (plus the other term, O(E lg E), which I am not discussing here). 
+
+But there are one or two reasons why they treated Make-Set as O(alpha(V)). 
+
+First, looking through their analysis in the text, they used a looser bound in order to enable a simplification. Since |E| >= |V| - 1, they can replace the V with E in their version, simplifying to O(E*alpha(V)). 
+
+We could just as well done it my way, changing O(V + E*alpha(V)) to O(E + E*alpha(V)) and then noting that the first E is absorbed into the second term for O(E*alpha(V)). 
+
+So, it's just two paths to the same final result (which eventually is O(E lg V). 
+
+Second, it depends on whether we count Make-Set as part of the sequence for amortized analysis. While Lemma 21.11 says it is O(1), Theorem 21.14 (the amortized analysis of union-find in tree representation) treats Make-Set as part of the sequence of m operations, and derives the O(m alpha(n)) result. Dividing by m, each operation is O(alpha(n)) on average. 
+
+This illustrates an issue with amortized analysis that you should be aware of. If it were essential that the Make-Set was included in the sequence in order to get the other operations (Union and Find-Set) down to O(alpha(n)) on average, then we could not give Make-Set the lower cost. In general, if we got a per-operation (average cost) result from amortized analysis of a sequence, we have to use that result for all operations in a sequence. Otherwise we might not be accumulating enough "credit" or "potential" to justify the lower charge on operations that happened to take longer.
+
+However, in this particular case, the structure of the proof in section 21.4 is such that each operation's bound is proven separately, so I am safe in substituting the O(1) result for Make-Set as discussed above. 
+
+I just didn't want to leave this hanging, in case anyone was confused by it (or thought that I was confused!). It is not critical that you remember what I've said above, but if you don't *understand* what I said then that would indicate need for further study! 
