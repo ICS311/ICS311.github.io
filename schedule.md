@@ -34,7 +34,6 @@
 
 *   **Mo 09/13 - #5 - Probabilistic Analysis and Randomized Algorithms; Skip Lists**:  
     CLRS Sections 5.1-5.3 and 5.1.4; [Goodrich & Tamassia Skip Lists](https://laulima.hawaii.edu/portal/tool/b5e9efbc-a1c1-4627-bbe2-a9f7fa9e8cde?panel=Main#); [Topic 05 Notes](Notes/Topic-05.html); screencasts in Laulima and YouTube; [MIT Lecture on Skip Lists](http://videolectures.net/mit6046jf05_demaine_lec12/)
-*   **Tu 09/14 - Last day to withdraw without "W"**
 *   **Tu 09/14 - Problem Set #2** (Topics 3 & 4) due 23:55 (11:55 pm)
 *   **We 09/15 - #6 - Hash Tables**:  
     CLRS Sections 11.1-11.4; [Topic 06 Notes](Notes/Topic-06.html); screencasts in Laulima, iTunesU and YouTube; [MIT Lecture 07](http://videolectures.net/mit6046jf05_leiserson_lec07/) and [MIT Lecture 08](http://videolectures.net/mit6046jf05_leiserson_lec08/) (see my notes for guide to what parts to attend to)
