@@ -1,1 +1,1 @@
-# algorithms.github.io
+# ICS311.github.io
