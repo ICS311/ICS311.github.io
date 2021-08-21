@@ -5,7 +5,7 @@
 
 * * *
 -->
-#### Schedule: [Click here to go to this week.](#thisweek)
+## Schedule
 
 #### Week 1: Introduction and Basic Concepts
 
@@ -128,8 +128,6 @@
     CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html); screencasts 25*; not covered in MIT video lectures.
 *   **Tu 12/07** Problem Set #10 (COMBINED: Topics 18, 19, 20 & 22) due 23:55 (11:55 pm)
 *   **We 12/08 - Special Topic and Review (LAST DAY CLASS).** Review for final exam. Nothing to study in advance. Time permitting, each instructor will choose special topic for his section. (DS: Introduction to social network analysis algorithms.)
-
-<a name="thisweek">
 
 * * *
 
