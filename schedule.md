@@ -10,7 +10,7 @@
 #### Week 1: Introduction and Basic Concepts
 
 *   **Mo 08/23 - #1 - Introduction to Algorithms**:  
-    Study resources include CLRS Chapter 1; [Topic 01 Notes](Notes/Topic-01.html); and screencasts 01A-C (or 01* for all of them) in Laulima (these screencasts were my first attempt and are of poor quality).
+    Study resources include CLRS Chapter 1; [Topic 01 Notes](Notes/Topic-01.html); and screencasts 01A-C (or 01* for all of them) in Laulima.
 *   **We 08/25 - #2 - Examples of Analysis with Insertion Sort**:  
     Study resources include CLRS Chapter 2 sections 2.1 and 2.2; [Topic 02 Notes](Notes/Topic-02.html) up through "Worst Case Rate of Growth"; screencasts 02A-C in Laulima (up through "Detailed Analysis of Insertion Sort"); [MIT Lecture 01](http://videolectures.net/mit6046jf05_leiserson_lec01/). **Quiz on above Topic 02 material in class today** (and on future days for _every_ numbered topic).
 
