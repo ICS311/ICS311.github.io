@@ -3,8 +3,9 @@
 * * *
 -->
 
-Algorithms taught Fall 2021 by [Peter Sadowski](http://www2.hawaii.edu/~psadow/) and run within [Laulima](https://laulima.hawaii.edu/portal). 
+# ICS 311 Algorithms 
 
+Fall 2021 with [Peter Sadowski](http://www2.hawaii.edu/~psadow/) and run within [Laulima](https://laulima.hawaii.edu/portal). 
 
 
 ## Contents
