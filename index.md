@@ -10,7 +10,7 @@ Algorithms taught Fall 2021 by [Peter Sadowski](http://www2.hawaii.edu/~psadow/)
 ## Contents
 
 *   **[Schedule](schedule.md)**: Weekly readings/videos, problem sets, and exams.
-*   [Syllabus](#syllabus): Overview of course and plan.
+*   [Syllabus](syllabus.md): Overview of course and plan.
 *   [Topics](#topics): Summary of weekly topics.
 *   [Problem Sets](#problems): List of active and planned problem sets.
 *   [Exams](#exams): Planned exam dates
