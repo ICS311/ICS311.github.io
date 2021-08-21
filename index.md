@@ -3,9 +3,9 @@
 * * *
 -->
 
-# ICS 311 Algorithms 
+# [ICS 311](https://ics311.github.io/)
 
-Fall 2021 with [Peter Sadowski](http://www2.hawaii.edu/~psadow/) and run within [Laulima](https://laulima.hawaii.edu/portal). 
+Fall 2021 Algorithms with [Peter Sadowski](http://www2.hawaii.edu/~psadow/) and run within [Laulima](https://laulima.hawaii.edu/portal). 
 
 
 ## Contents
