@@ -1,18 +1,11 @@
-* * *
-
+<!--
 # ICS 311 Fall 2021
-
 * * *
+-->
 
-<small>
+Algorithms taught Fall 2021 by [Peter Sadowski](http://www2.hawaii.edu/~psadow/) and run within [Laulima](https://laulima.hawaii.edu/portal). 
 
-ICS 311 Algorithms taught Fall 2021 by [Peter Sadowski](http://www2.hawaii.edu/~psadow/).
-  
-The course is run within [Laulima.](https://laulima.hawaii.edu/portal) and meetings on Zoom. For reasons of security and simplicity in managing a large course, you **must use a UH login** to participate.
 
-</small>
-
-* * *
 
 ## Contents
 
@@ -37,29 +30,29 @@ The course is run within [Laulima.](https://laulima.hawaii.edu/portal) and meeti
 
 This is not a complete schedule: see the [Schedule](Schedule.html) for that. CLRS is the Cormen Leiserson Rivest and Stein textbook.
 
-*   08/24 - **#1 - Introduction to Course**: CLRS Chapter 1; [Topic 01 Notes](Notes/Topic-01.html)
-*   08/26 & 31 - **#2 - Examples of Analysis with Insertion and Merge Sort**: CLRS Chapter 2; [Topic 02 Notes](Notes/Topic-02.html)
-*   09/02 - **#3 - Growth of Functions and Asymptotic Concepts**: CLRS Chapter 3; [Topic 03 Notes](Notes/Topic-03.html)
-*   09/09 - **#4 - Basic ADTs (Stacks, Queues, Lists and Trees)**: CLRS Chapter 10; [Topic 04 Notes](Notes/Topic-04.html)
-*   09/14 - **#5 - Probabilistic Analysis and Randomized Algorithms**: CLRS Sections 5.1-5.3, 5.4.1; Goodrich & Tamassia section on Skip Lists; [Topic 05 Notes](Notes/Topic-05.html)
-*   09/16 - **#6 - Hash Tables**: CLRS Sections 11.1-11.4; [Topic 06 Notes](Notes/Topic-06.html)
-*   09/21 - **#7 - Divide & Conquer and Analysis of Recurrences**: CLRS Chapter 4 (4.1 & 4.3-4.5); [Topic 07 Notes](Notes/Topic-07.html)
-*   09/23 - **#8 - Binary Search Trees**: CLRS Sections 12.1-12.3 (see also Theorem 12.4); [Topic 08 Notes](Notes/Topic-08.html)
-*   09/28 - **#9 - Heaps, Heapsort and Priority Queues**: CLRS Chapter 6 (all); [Topic 09 Notes](Notes/Topic-09.html)
-*   09/30 & 10/05 - **#10 - Quicksort, Theoretical Limits, and O(n) Sorts**: CLRS Chapters 7 & 8; [Topic 10 Notes](Notes/Topic-10.html)
-*   10/12 - **#11 - Balanced Trees (2-3-4 and Red-Black)**: Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html)
-*   10/19 - **#12 - Dynamic Programming**: CLRS Chapter 15 (and optionally Sedgewick Chapter 37); [Topic 12 Notes](Notes/Topic-12.html)
-*   10/21 - **#13 - Greedy Algorithms & Huffman Codes**: CLRS Sections 16.1-16.3; [Topic 13 Notes](Notes/Topic-13.html)
-*   10/26 & 28 - **#14 - Graph Representations and Basic Algorithms**: CLRS Chapter 22; Goodrich & Tamassia excerpt on Representations; [Topic 14 Notes](Notes/Topic-14.html)
-*   11/02 - **#15 - Amortized Analysis**: CLRS Chapter 17 Sections 17.1-17.2; [Topic 15 Notes](Notes/Topic-15.html) (leave out the Potential method), AND:  
-    11/02 - **#16 - Sets and Union-Find**: CLRS Sections 21.1, 21.3 and Theorem 21.14 (read beginning of 21.4 through definition of α and the theorem); [Topic 16 Notes](Notes/Topic-16.html) (leave out the linked representation)
-*   11/04 - **#17 - Minimum Spanning Trees**: CLRS Chapter 23; [Topic 17 Notes](Notes/Topic-17.html)
-*   11/09 - **#18 - Single-Source Shortest Paths**: CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html)
-*   11/16 - **#19 - All-Pairs Shortest Paths**: CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html)
-*   11/23 - **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
-*   11/25 - **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
-*   12/02 - **#24 - Complexity Theory & NP-Completeness**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
-*   12/07 - **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
+*   08/23 - **#1 - Introduction to Course**: CLRS Chapter 1; [Topic 01 Notes](Notes/Topic-01.html)
+*   08/25 & 30 - **#2 - Examples of Analysis with Insertion and Merge Sort**: CLRS Chapter 2; [Topic 02 Notes](Notes/Topic-02.html)
+*   09/01 - **#3 - Growth of Functions and Asymptotic Concepts**: CLRS Chapter 3; [Topic 03 Notes](Notes/Topic-03.html)
+*   09/08 - **#4 - Basic ADTs (Stacks, Queues, Lists and Trees)**: CLRS Chapter 10; [Topic 04 Notes](Notes/Topic-04.html)
+*   09/13 - **#5 - Probabilistic Analysis and Randomized Algorithms**: CLRS Sections 5.1-5.3, 5.4.1; Goodrich & Tamassia section on Skip Lists; [Topic 05 Notes](Notes/Topic-05.html)
+*   09/15 - **#6 - Hash Tables**: CLRS Sections 11.1-11.4; [Topic 06 Notes](Notes/Topic-06.html)
+*   09/20 - **#7 - Divide & Conquer and Analysis of Recurrences**: CLRS Chapter 4 (4.1 & 4.3-4.5); [Topic 07 Notes](Notes/Topic-07.html)
+*   09/22 - **#8 - Binary Search Trees**: CLRS Sections 12.1-12.3 (see also Theorem 12.4); [Topic 08 Notes](Notes/Topic-08.html)
+*   09/27 - **#9 - Heaps, Heapsort and Priority Queues**: CLRS Chapter 6 (all); [Topic 09 Notes](Notes/Topic-09.html)
+*   09/29 & 10/04 - **#10 - Quicksort, Theoretical Limits, and O(n) Sorts**: CLRS Chapters 7 & 8; [Topic 10 Notes](Notes/Topic-10.html)
+*   10/11 - **#11 - Balanced Trees (2-3-4 and Red-Black)**: Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html)
+*   10/18 - **#12 - Dynamic Programming**: CLRS Chapter 15 (and optionally Sedgewick Chapter 37); [Topic 12 Notes](Notes/Topic-12.html)
+*   10/20 - **#13 - Greedy Algorithms & Huffman Codes**: CLRS Sections 16.1-16.3; [Topic 13 Notes](Notes/Topic-13.html)
+*   10/25 & 27 - **#14 - Graph Representations and Basic Algorithms**: CLRS Chapter 22; Goodrich & Tamassia excerpt on Representations; [Topic 14 Notes](Notes/Topic-14.html)
+*   11/01 - **#15 - Amortized Analysis**: CLRS Chapter 17 Sections 17.1-17.2; [Topic 15 Notes](Notes/Topic-15.html) (leave out the Potential method), AND:  
+    11/01 - **#16 - Sets and Union-Find**: CLRS Sections 21.1, 21.3 and Theorem 21.14 (read beginning of 21.4 through definition of α and the theorem); [Topic 16 Notes](Notes/Topic-16.html) (leave out the linked representation)
+*   11/03 - **#17 - Minimum Spanning Trees**: CLRS Chapter 23; [Topic 17 Notes](Notes/Topic-17.html)
+*   11/08 - **#18 - Single-Source Shortest Paths**: CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html)
+*   11/15 - **#19 - All-Pairs Shortest Paths**: CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html)
+*   11/22 - **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
+*   11/24 - **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
+*   12/01 - **#24 - Complexity Theory & NP-Completeness**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
+*   12/06 - **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
 
 Other topics not covered:
 
