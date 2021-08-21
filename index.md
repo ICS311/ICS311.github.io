@@ -16,12 +16,13 @@ The course is run within [Laulima.](https://laulima.hawaii.edu/portal) and meeti
 
 ## Contents
 
-*   **[Schedule](Schedule.html)**: Weekly readings/videos, problem sets, and exams.
+*   **[Schedule](schedule.md)**: Weekly readings/videos, problem sets, and exams.
 *   [Syllabus](#syllabus): Overview of course and plan.
 *   [Topics](#topics): Summary of weekly topics.
 *   [Problem Sets](#problems): List of active and planned problem sets.
 *   [Exams](#exams): Planned exam dates
 
+<!--
 ## <a name="syllabus">Syllabus</a>
 
 *   [General Course Information](Syllabus/Course-Info.html)
@@ -30,6 +31,7 @@ The course is run within [Laulima.](https://laulima.hawaii.edu/portal) and meeti
 *   [Screencasts and Online Lectures](Syllabus/Screencasts.html)
 *   [Assessment](Syllabus/Assessment.html) (Grading)
 *   [Policies](Syllabus/Policies.html)
+-->
 
 ## <a name="topics">Topics</a>
 
