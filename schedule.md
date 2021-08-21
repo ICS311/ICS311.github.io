@@ -1,6 +1,6 @@
 * * *
 
-## [ICS 311 Fall 2021](index.html) Schedule
+## [ICS 311 Fall 2021](index.md) Schedule
 
 * * *
 
