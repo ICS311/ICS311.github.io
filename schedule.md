@@ -1,10 +1,11 @@
+<!--
 * * *
 
 ## [ICS 311 Fall 2021](index.md) Schedule
 
 * * *
-
-#### [Click here to go to this week.](#thisweek)
+-->
+#### Schedule: [Click here to go to this week.](#thisweek)
 
 #### Week 1: Introduction and Basic Concepts
 
