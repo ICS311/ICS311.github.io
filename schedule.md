@@ -132,8 +132,6 @@
 
 * * *
 
-</a>
-
 #### Finals Week:
 
 *   **We 12/13: Final Exam** - Cumulative on all topics (1-20, 22, 24, & 25).
