@@ -16,7 +16,7 @@ INDEX_TEMPLATE = r"""
 </html>
 """
 
-EXCLUDED = ['index.html']
+EXCLUDED = ['index.html', 'make_index.py', 'clean.sh', 'Topic-Template.html']
 
 import os
 import argparse
@@ -31,7 +31,7 @@ def main():
     parser.add_argument("--header")
     args = parser.parse_args()
     fnames = [fname for fname in sorted(os.listdir(args.directory))
-              if fname not in EXCLUDED]
+              if fname not in EXCLUDED and '.html' in fname]
     header = (args.header if args.header else os.path.basename(args.directory))
     print(Template(INDEX_TEMPLATE).render(names=fnames, header=header))
 
