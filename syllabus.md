@@ -10,7 +10,7 @@ Professor Dan Suthers has written excellent [notes](https://ics311.github.io/Not
                                                                                                                                  
 ## Video lectures
 
-Lectures are available on YouTube as well as Laulima. The YouTube versions are linked from the individual Notes pages (the pages named Topic-XX.html on the www2 web site above), and can also be found in the Resources/Podcasts folder in Laulima.                                                                                                                                 
+Lectures are available on YouTube as well as Laulima. The YouTube versions are linked from the individual Notes pages (the pages named Topic-XX.html on the www2 web site above), and can also be found in the Resources/Screencasts folder in Laulima.                                                                                                                                 
 
 [Youtube UHM ICS Algorithms](https://www.youtube.com/user/UHMICSAlgorithms/videos/)
 
