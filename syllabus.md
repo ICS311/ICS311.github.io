@@ -84,3 +84,12 @@ Students will develop an ability to apply mathematical foundations, algorithmic 
 *   Students can decide whether given pseudocode is correct for a given problem formulation; construct a counterexample if the given pseudocode is incorrect; and outline a proof for its correctness otherwise.
 *   Students can design a correct algorithm for a given problem and describe the algorithm as pseudocode in a given pseudocode syntax.
 *   Students can analyze the worst-case and best-case space and time complexities of a given algorithm.
+
+## Grading
+
+* 15% Quizzes (every lecture)
+* 15% In-class exercises (every lecture)
+* 35% Homework (10 problem sets)
+* 10% Midterm 1
+* 10% Midterm 2
+* 15% Final
