@@ -96,4 +96,4 @@ Students will develop an ability to apply mathematical foundations, algorithmic 
 
 ## Homework Policy
 
-Discussion of homework problems is strongly encouraged. However, students must write their solutions in their own words. Sharing of written solutions is expressly prohibited. Violations will be reported to the Office of Student Conduct.
+Discussion of homework problems is strongly encouraged. However, students must write their solutions in their own words. Sharing of written solutions is expressly prohibited. Violations will be reported to the Office of Student Conduct and result in zero credit.
