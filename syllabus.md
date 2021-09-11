@@ -50,9 +50,9 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 *   Office: _____
 *   Office Hours: TBD in Zoom Meeting Room
 
-#### Nancy Mogire (Homework Assignments only)
+#### Muzamil Mohamed (will help with some grading)
 
-*   Email: nmogire at hawaii dot edu. (Put "ICS 311" in the subject line.)
+*   Email: muzamil at hawaii. (Put "ICS 311" in the subject line.)
 
 #### Michael Ito (In-Class only)
 
