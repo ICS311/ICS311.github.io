@@ -41,7 +41,7 @@ This is a summary, see [Schedule](schedule.md) for more detail.
 *   09/22 - **#8 - Binary Search Trees**: CLRS Sections 12.1-12.3 (see also Theorem 12.4); [Topic 08 Notes](Notes/Topic-08.html)
 *   09/27 - **#9 - Heaps, Heapsort and Priority Queues**: CLRS Chapter 6 (all); [Topic 09 Notes](Notes/Topic-09.html)
 *   09/29 & 10/04 - **#10 - Quicksort, Theoretical Limits, and O(n) Sorts**: CLRS Chapters 7 & 8; [Topic 10 Notes](Notes/Topic-10.html)
-*   10/11 - **#11 - Balanced Trees (2-3-4 and Red-Black)**: Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html)
+*   10/11 - Review of Mistakes on Midterm ~~**#11 - Balanced Trees (2-3-4 and Red-Black)**: Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html)~~
 *   10/18 - **#12 - Dynamic Programming**: CLRS Chapter 15 (and optionally Sedgewick Chapter 37); [Topic 12 Notes](Notes/Topic-12.html)
 *   10/20 - **#13 - Greedy Algorithms & Huffman Codes**: CLRS Sections 16.1-16.3; [Topic 13 Notes](Notes/Topic-13.html)
 *   10/25 & 27 - **#14 - Graph Representations and Basic Algorithms**: CLRS Chapter 22; Goodrich & Tamassia excerpt on Representations; [Topic 14 Notes](Notes/Topic-14.html)
