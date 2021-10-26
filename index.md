@@ -81,6 +81,6 @@ Each problem set will be released in Laulima when they are assigned. At that tim
 
 *   **Wednesday 10/06: Midterm 1** - Topics 1-8
 *   **Wednesday 11/17: Midterm 2** - Topics 9-17
-*   **We 12/13 7:30-9:30am: Final Exam** - Cumulative on all topics (1-20, 22, 24, & 25).
+*   **[Monday 12/13 7:30-9:30am](https://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/): Final Exam** - Cumulative on all topics (1-20, 22, 24, & 25).
 
 * * *
