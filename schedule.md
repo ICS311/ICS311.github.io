@@ -98,20 +98,17 @@
 
 *   **Mo 11/08 - #18 - Single-Source Shortest Paths**:  
     CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html); screencasts 18*; [MIT Lecture 17](http://videolectures.net/mit6046jf05_demaine_lec17/), [MIT Lecture 18](http://videolectures.net/mit6046jf05_demaine_lec18/) (first half)
-*   **Tu 11/9** No problem set due!
-*   **We 11/10 - Holiday: Veteran's Day**
+*   **We 11/10** Problem Set #9 (Topic 15, 16 & 17) due 23:55 (11:55 pm)
 
 #### Week 13: Shortest Paths Continued; Midterm
 
 *   **Mo 11/15 - #19 - All-Pairs Shortest Paths**:  
     CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html); screencasts 19*; [MIT Lecture 19](http://videolectures.net/mit6046jf05_demaine_lec19/)
-*   **Tu 11/16 - Problem Set #9 extended 1 week** (Topic 15, 16 & 17) due 23:55 (11:55 pm)
 *   **We 11/17 - Midterm 2: Topics 9-17**
 
 #### Week 14: Midterm Results Review; Maximum Flow in Graphs
 
 *   **Mo 11/22 - Review of Midterm Results**
-*   **Tu 11/23** - No problem set due! But start on combined problem set.
 *   **We 11/24 - #20 - Maximum Flow**:  
     CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html); screencasts 20*.
 
@@ -119,7 +116,6 @@
 
 *   **Mo 11/29 - #22 - Multithreading**:  
     CLRS Chapter 27 (emphasis on sections 27.1 and 27.3); [Topic 22 Notes](Notes/Topic-22.html); no screencasts.
-*   **Tu 11/31** - No problem set due! But work on combined problem set due next week.
 *   **We 12/01 - #24 - Complexity Theory & NP-Completeness**:  
     CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html); screencasts 24*; not covered in MIT video lectures.
 
@@ -127,13 +123,12 @@
 
 *   **Mo 12/06 - #25 - Approximation Algorithms**:  
     CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html); screencasts 25*; not covered in MIT video lectures.
-*   **Tu 12/07** Problem Set #10 (COMBINED: Topics 18, 19, 20 & 22) due 23:55 (11:55 pm)
-*   **We 12/08 - Special Topic and Review (LAST DAY CLASS).** Review for final exam. Nothing to study in advance. Time permitting, each instructor will choose special topic for his section. (DS: Introduction to social network analysis algorithms.)
+*   **We 12/08 - Review (LAST DAY CLASS).** Review for final exam.
 
 * * *
 
 #### Finals Week:
 
-*   **We 12/13: Final Exam** - Cumulative on all topics (1-20, 22, 24, & 25).
+*   **We 12/13: Final Exam 7:30 – 9:30am on Laulima+Zoom** - Cumulative on all topics (1-20, 22, 24, & 25). 
 
 * * *
