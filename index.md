@@ -49,11 +49,11 @@ This is a summary, see [Schedule](schedule.md) for more detail.
     11/01 - **#16 - Sets and Union-Find**: CLRS Sections 21.1, 21.3 and Theorem 21.14 (read beginning of 21.4 through definition of α and the theorem); [Topic 16 Notes](Notes/Topic-16.html) (leave out the linked representation)
 *   11/03 - **#17 - Minimum Spanning Trees**: CLRS Chapter 23; [Topic 17 Notes](Notes/Topic-17.html)
 *   11/08 - **#18 - Single-Source Shortest Paths**: CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html)
-*   11/15 - **#19 - All-Pairs Shortest Paths**: CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html)
+*   11/10 - **#19 - All-Pairs Shortest Paths**: CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html)
 *   11/22 - **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
 *   11/24 - **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
-*   12/01 - **#24 - Complexity Theory & NP-Completeness**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
-*   12/06 - **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
+*   11/29 - **#24 - Complexity Theory & NP-Completeness**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
+*   12/01 - **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
 
 Other topics not covered:
 
@@ -73,10 +73,9 @@ Each problem set will be released in Laulima when they are assigned. At that tim
 *   **Problem Set #5** (Topics 9 & 10A) due 23:55 (11:55 pm) Tuesday October 12
 *   **Problem Set #6** (Topics 10B & 11) due 23:55 (11:55 pm) Tuesday Oct 19
 *   **Problem Set #7** (Topics 12 & 13) due 23:55 (11:55 pm) Tuesday October 26
-*   **Problem Set #8** (Topic 14) due 23:55 (11:55 pm) Tuesday November 2
-*   **Problem Set #9** (Topics 15, 16 & 17) due 23:55 (11:55 pm) Tuesday November 9
-*   **Problem Set #10** (Topics 18, 19, 20 & 22) due 23:55 (11:55 pm) Tuesday December 7
-
+*   **Problem Set #8** (Topic 14) due 23:55 (11:55 pm) Wednesday November 3
+*   **Problem Set #9** (Topics 15, 16 & 17) due 23:55 (11:55 pm) Wednesday November 10
+*   **Problem Set #10** (Topics 18, 19, 20 & 22) due 23:55 (11:55 pm) Wednesday December 1
 ## <a name="exams">Exam Dates</a>
 
 *   **Wednesday 10/06: Midterm 1** - Topics 1-8
