@@ -98,12 +98,13 @@
 
 *   **Mo 11/08 - #18 - Single-Source Shortest Paths**:  
     CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html); screencasts 18*; [MIT Lecture 17](http://videolectures.net/mit6046jf05_demaine_lec17/), [MIT Lecture 18](http://videolectures.net/mit6046jf05_demaine_lec18/) (first half)
-*   **We 11/10** Problem Set #9 (Topic 15, 16 & 17) due 23:55 (11:55 pm)
+*   **We 11/10 - #19 - All-Pairs Shortest Paths**:
+    CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html); screencasts 19*; [MIT Lecture 19](http://videolectures.net/mit6046jf05_demaine_lec19/)
+*   **Sa 11/13** Problem Set #9 (Topic 15, 16 & 17) due 23:55 (11:55 pm)
 
 #### Week 13: Shortest Paths Continued; Midterm
 
-*   **Mo 11/15 - #19 - All-Pairs Shortest Paths**:  
-    CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html); screencasts 19*; [MIT Lecture 19](http://videolectures.net/mit6046jf05_demaine_lec19/)
+*   **Mo 11/15 - Midterm 2 Review**: (Bring questions)  
 *   **We 11/17 - Midterm 2: Topics 9-17**
 
 #### Week 14: Midterm Results Review; Maximum Flow in Graphs
@@ -129,6 +130,6 @@
 
 #### Finals Week:
 
-*   **We 12/13: Final Exam 7:30 – 9:30am on Laulima+Zoom** - Cumulative on all topics (1-20, 22, 24, & 25). 
+*   **Mo 12/13: Final Exam 7:30 – 9:30am on Laulima+Zoom** - Cumulative on all topics (1-20, 22, 24, & 25). 
 
 * * *
