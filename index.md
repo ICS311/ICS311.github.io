@@ -74,7 +74,7 @@ Each problem set will be released in Laulima when they are assigned. At that tim
 *   **Problem Set #6** (Topics 10B & 11) due 23:55 (11:55 pm) Tuesday Oct 19
 *   **Problem Set #7** (Topics 12 & 13) due 23:55 (11:55 pm) Tuesday October 26
 *   **Problem Set #8** (Topic 14) due 23:55 (11:55 pm) Wednesday November 3
-*   **Problem Set #9** (Topics 15, 16 & 17) due 23:55 (11:55 pm) Wednesday November 10
+*   **Problem Set #9** (Topics 15, 16 & 17) due 23:55 (11:55 pm) Wednesday November 10 (Extended to Sat Nov 13)
 *   **Problem Set #10** (Topics 18, 19, 20 & 22) due 23:55 (11:55 pm) Wednesday December 1
 ## <a name="exams">Exam Dates</a>
 
