@@ -50,10 +50,11 @@ This is a summary, see [Schedule](schedule.md) for more detail.
 *   11/03 - **#17 - Minimum Spanning Trees**: CLRS Chapter 23; [Topic 17 Notes](Notes/Topic-17.html)
 *   11/08 - **#18 - Single-Source Shortest Paths**: CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html)
 *   11/10 - **#19 - All-Pairs Shortest Paths**: CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html)
-*   11/22 - **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
-*   11/24 - **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
-*   11/29 - **#24 - Complexity Theory & NP-Completeness**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
-*   12/01 - **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
+*   11/22 - Review of Mistakes on Midterm 2
+*   11/24 - **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
+*   11/29 - **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
+*   12/01 - **#24 - Complexity Theory & NP-Completeness**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
+*   12/06 - **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
 
 Other topics not covered:
 
