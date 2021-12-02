@@ -120,10 +120,11 @@
 *   **We 12/01 - #24 - Complexity Theory & NP-Completeness**:  
     CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html); screencasts 24*; not covered in MIT video lectures.
 
-#### Week 16: Approximation Algorithms; Review and Special Topic
+#### Week 16: Complexity Theory; Review
 
-*   **Mo 12/06 - #25 - Approximation Algorithms**:  
-    CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html); screencasts 25*; not covered in MIT video lectures.
+<!--- *   **Mo 12/06 - #25 - Approximation Algorithms**:  
+    CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html); screencasts 25*; not covered in MIT video lectures.  --->
+*   **Mo 12/06** - Complexity Theory & NP-Completeness (continued)
 *   **We 12/08 - Review (LAST DAY CLASS).** Review for final exam.
 
 * * *
