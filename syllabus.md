@@ -40,7 +40,7 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 *   Email: psadow at hawaii dot edu. (Put "ICS 311" in the subject line.)
 *   Office: POST 306C
-*   Office Hours: Mondays after class in Zoom Meeting Room
+*   Office Hours: Mondays 12pm before class.
 
 ## Teaching Assistants
 
