@@ -41,7 +41,7 @@ This is a summary, see [Schedule](schedule.md) for more detail.
 *   09/21 - **#8 - Binary Search Trees**: CLRS Sections 12.1-12.3 (see also Theorem 12.4); [Topic 08 Notes](Notes/Topic-08.html)
 *   09/26 - **#9 - Heaps, Heapsort and Priority Queues**: CLRS Chapter 6 (all); [Topic 09 Notes](Notes/Topic-09.html)
 *   09/28 & 10/04 - **#10 - Quicksort, Theoretical Limits, and O(n) Sorts**: CLRS Chapters 7 & 8; [Topic 10 Notes](Notes/Topic-10.html)
-*   10/10 - Review of Mistakes on Midterm ~~**#11 - Balanced Trees (2-3-4 and Red-Black)**: Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html)~~
+*   10/10 - **#11 - Balanced Trees (2-3-4 and Red-Black)**: Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html)<!--Review of Mistakes on Midterm-->
 *   10/12 & 10/17 - **#12 - Dynamic Programming**: CLRS Chapter 15 (and optionally Sedgewick Chapter 37); [Topic 12 Notes](Notes/Topic-12.html)
 *   10/19 - **#13 - Greedy Algorithms & Huffman Codes**: CLRS Sections 16.1-16.3; [Topic 13 Notes](Notes/Topic-13.html)
 *   10/24 & 26 - **#14 - Graph Representations and Basic Algorithms**: CLRS Chapter 22; Goodrich & Tamassia excerpt on Representations; [Topic 14 Notes](Notes/Topic-14.html)
@@ -54,7 +54,7 @@ This is a summary, see [Schedule](schedule.md) for more detail.
 *   11/23 - **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
 *   11/28 - **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
 *   11/30 - **#24 - NP-Completeness and Complexity Theory**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
-*   12/05 - Complexity Theory (continued)  ~~**#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)~~
+*   12/05 - **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework) <!--Complexity Theory (continued)-->
 *   12/07 - Review
 
 
