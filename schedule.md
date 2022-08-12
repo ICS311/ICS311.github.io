@@ -19,7 +19,7 @@
 
 *   **Mo 08/29 - #2 - Examples of Analysis with Merge Sort**:  
     Rest of CLRS Chapter 2; rest of [Topic 02 Notes](Notes/Topic-02.html); screencasts 02D and 02E. Don't forget **Quiz on remainder of Topic 02**.
-*   **Tu - Problem Set #0** (practice homework, Topic 1) due 23:55 (11:55 pm) in Laulima (not graded, but discussed in class)
+*   **Tu - Problem Set #0** (Topic 1) due 23:55 (11:55 pm) in Laulima (not graded, but discussed in class)
 *   **We - #3 - Growth of Functions and Asymptotic Concepts**:  
     CLRS Chapter 3; [Topic 03 Notes](Notes/Topic-03.html) ; screencasts 03*, available in Laulima and YouTube; [MIT Lecture 02](http://videolectures.net/mit6046jf05_demaine_lec02/) (beginning-16:50).
 
