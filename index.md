@@ -62,14 +62,14 @@ Other topics not covered:
 
 *   <u>#21 - Linear Programming</u>: Sedgewick (1983) Chapters 5 and 38 (read these first); CLRS Sections 29.0-29.3 (half way); [Topic 21 Notes](Notes/Topic-21.html)
 *   <u>#23 String Matching</u>: CLRS Chapter 32 (emphasis on sections 32.1 and 32.3); [Topic 23 Notes](Notes/Topic-23.html)
-*   <u>#25 - Approximation Algorithms</u>: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
+<!--*   <u>#25 - Approximation Algorithms</u>: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)-->
 *   <u>Public Key Encryption</u>: CLRS Chapter 31 (emphasis on 31.7). No web notes or videos have been made.
 
 ## <a name="problems">Problem Sets</a>
 
 Each problem set will be released in Laulima when they are assigned. At that time, you may find the actual problems as Google Doc templates in your section's Assignments folder.
 
-*   **Problem Set #0** (Topic 1) Due 23:55 (11:55 pm) Tuesday Aug 30
+*   **Problem Set #0** (Topic 1) due 23:55 (11:55 pm) Tuesday Aug 30
 *   **Problem Set #1** (Topic 2) due 23:55 (11:55 pm) Tuesday September 6
 *   **Problem Set #2** (Topics 3 & 4) due 23:55 (11:55 pm) Tuesday September 13
 *   **Problem Set #3** (Topics 5 & 6) due 23:55 (11:55 pm) Tuesday September 20
