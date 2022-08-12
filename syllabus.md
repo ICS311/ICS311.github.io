@@ -91,3 +91,8 @@ Students will develop an ability to apply mathematical foundations, algorithmic 
 ## Homework Policy
 
 Discussion of homework problems is strongly encouraged. However, students must write their solutions in their own words. Sharing of written solutions is expressly prohibited. Violations will be reported to the Office of Student Conduct and result in zero credit.
+
+## Sections
+
+Due to FERPA regulations, we are required to inform you that this course space is being shared by students in the following CRNs [70848 and 76470] and if you do not wish to be in a shared course space, please drop this section and register for another section or alternate course.
+
