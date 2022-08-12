@@ -94,5 +94,5 @@ Discussion of homework problems is strongly encouraged. However, students must w
 
 ## Sections
 
-Due to FERPA regulations, we are required to inform you that this course space is being shared by students in both ICS 311 sections [CRNs 70848 and 76470] and if you do not wish to be in a shared course space, please drop this section and register for another section or alternate course.
+There are two sections of ICS 311 this year. Due to FERPA regulations, we are required to inform you that this course space is being shared by students in both ICS 311 sections [CRNs 70848 and 76470] and if you do not wish to be in a shared course space, please drop this section and register for another section or alternate course.
 
