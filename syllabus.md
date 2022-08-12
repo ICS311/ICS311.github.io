@@ -44,17 +44,11 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 ## Teaching Assistants
 
-#### Andy Yu (Section 1 Class and Homework Assignments)
+#### Kai-Ying "Kevin" Lin  (Section 1 Class and Homework Assignments)
 
-*   Email: andyyu at hawaii dot edu. (Put "ICS 311" in the subject line.)
-*   Office: _____
-*   Office Hours: TBD in Zoom Meeting Room
-
-#### Muzamil Mohamed (will help with some grading)
-
-*   Email: muzamil at hawaii. (Put "ICS 311" in the subject line.)
-
-#### Michael Ito (In-Class only)
+*   Email: *** at hawaii dot edu. (Put "ICS 311" in the subject line.)
+*   Office: TBD
+*   Office Hours: TBD 
 
 ## Communications
 
