@@ -2,7 +2,10 @@
 
 ## Textbook
 
-Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Third Edition,](http://mitpress.mit.edu/algorithms/) The MIT Press, 2009.
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Fourth Edition,](https://mitpress.mit.edu/9780262046305/) The MIT Press, 2022.
+
+The previous edition is also fine:
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Third Edition,](https://mitpress.mit.edu/9780262533058/) The MIT Press, 2009.
 
 ## Notes
                                                                                                                                  
