@@ -12,7 +12,8 @@ Fall 2022 Algorithms with [Peter Sadowski](http://www2.hawaii.edu/~psadow/) and 
 
 *   **[Schedule](schedule.md)**: Weekly readings/videos, problem sets, and exams.
 *   **[Syllabus](syllabus.md)**: Basic course information.
-
+*   Section 1: MW	0100-0240p	[WEB 101](https://goo.gl/maps/SN7x8ME772mexTC1A)
+*   Section 2: MW	0300-0440p	[WEB 101](https://goo.gl/maps/SN7x8ME772mexTC1A)
 <!--
 *   [Topics](#topics)
 *   [Problem Sets](#problems): List of active and planned problem sets.
