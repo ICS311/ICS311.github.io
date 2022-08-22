@@ -4,11 +4,7 @@
 
 The notes and assignments are based on CLRS Third Edition, so either version of the books will work:
 
-Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Fourth Edition,](https://mitpress.mit.edu/9780262046305/) The MIT Press, 2022.
-
-OR
-
-Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Third Edition,](https://mitpress.mit.edu/9780262533058/) The MIT Press, 2009.
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Fourth Edition,](https://mitpress.mit.edu/9780262046305/) The MIT Press, 2022. ([Third Edition](https://mitpress.mit.edu/9780262533058/) also OK)
 
 ## Notes
                                                                                                                                  
@@ -50,11 +46,16 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 ## Teaching Assistants
 
-#### Kai-Ying "Kevin" Lin  (Section 1 Class and Homework Assignments)
+#### Kai-Ying "Kevin" Lin
 
-*   Email: *** at hawaii dot edu. (Put "ICS 311" in the subject line.)
+*   Email: *** at hawaii (Put "ICS 311" in the subject line.)
 *   Office: TBD
 *   Office Hours: TBD 
+
+#### Akib Sadmanee
+*  Email: sadmanee at hawaii (Put "ICS 311" in the subject line.)
+*   Office: TBD
+*   Office Hours: TBD
 
 ## Communications
 
@@ -93,10 +94,25 @@ Students will develop an ability to apply mathematical foundations, algorithmic 
 * 10% Midterm 1
 * 10% Midterm 2
 * 15% Final
+* 
+## Daily Class Structure
+Each class day, there will be a daily quiz and an inclass group assignment on a particular topic. You are expected to come to class having studied the topic via the text, notes, and video lectures.
+
+* **Daily Quiz:** Do this before class on Laulima. Quiz is open in the morning. Answers will be discussed at the beginning of class.
+
+* **Inclass Group Assignment:** Submit this to Laulima by 5pm. Make sure to include the name of your group members on your doc. Each person should submit, but your group should submit the same document.
 
 ## Homework Policy
 
 Discussion of homework problems is strongly encouraged. However, students must write their solutions in their own words. Sharing of written solutions is expressly prohibited. Violations will be reported to the Office of Student Conduct and result in zero credit.
+
+Homework assignments will be due at 11:55pm on the due date, but will be accepted until 8am the next morning without penalty.
+
+## Late Work
+
+If you will miss class, you can submit the quiz and inclass assignment to Laulima the same day before the deadline.
+
+Homework Assignments wil not be accepted late, but the lowest grade will be dropped. 
 
 ## Sections
 
