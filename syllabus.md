@@ -2,9 +2,7 @@
 
 ## Textbook
 
-The notes and assignments are based on CLRS Third Edition, so either version of the books will work:
-
-Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Fourth Edition,](https://mitpress.mit.edu/9780262046305/) The MIT Press, 2022. ([Third Edition](https://mitpress.mit.edu/9780262533058/) also OK)
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Fourth Edition,](https://mitpress.mit.edu/9780262046305/) The MIT Press, 2022. ([Third Edition](https://mitpress.mit.edu/9780262533058/) is fine --- the topics notes and videos are based on this edition.)
 
 ## Notes
                                                                                                                                  
