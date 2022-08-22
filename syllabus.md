@@ -2,7 +2,7 @@
 
 ## Textbook
 
-Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Fourth Edition,](https://mitpress.mit.edu/9780262046305/) The MIT Press, 2022. ([Third Edition](https://mitpress.mit.edu/9780262533058/) is fine --- the topics notes and videos are based on this edition.)
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein (CLRS), [Introduction to Algorithms, Fourth Edition,](https://mitpress.mit.edu/9780262046305/) The MIT Press, 2022. ([Third Edition](https://mitpress.mit.edu/9780262533058/) is also fine --- the topics notes and videos are based on this edition.)
 
 ## Notes
                                                                                                                                  
@@ -10,9 +10,7 @@ Professor Dan Suthers has written excellent [notes](https://ics311.github.io/Not
                                                                                                                                  
 ## Video lectures
 
-Lectures are available on YouTube as well as Laulima. The YouTube versions are linked from the individual Notes pages (the pages named Topic-XX.html on the www2 web site above), and can also be found in the Resources/Screencasts folder in Laulima.                                                                                                                                 
-
-[Youtube UHM ICS Algorithms](https://www.youtube.com/user/UHMICSAlgorithms/videos/)
+Lectures are available on [YouTube](https://www.youtube.com/user/UHMICSAlgorithms/videos) and Laulima. The YouTube versions are linked from the individual Notes pages (the pages named Topic-XX.html on the www2 web site above), and can also be found in the Resources/Screencasts folder in Laulima. 
 
 ## MIT Video Lectures
                                                                                                                                  
@@ -38,7 +36,7 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 #### [Peter Sadowski](http://www2.hawaii.edu/~psadow/)
 
-*   Email: psadow at hawaii dot edu. (Put "ICS 311" in the subject line.)
+*   Email: psadow at hawaii (Put "ICS 311" in the subject line.)
 *   Office: POST 306C
 *   Office Hours: Mondays 12pm before class.
 
