@@ -44,7 +44,7 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 #### Kai-Ying "Kevin" Lin
 
-*   Email: *** at hawaii (Put "ICS 311" in the subject line.)
+*   Email: kylin at hawaii (Put "ICS 311" in the subject line.)
 *   Office: TBD
 *   Office Hours: TBD 
 
