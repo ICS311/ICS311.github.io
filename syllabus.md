@@ -90,7 +90,7 @@ Students will develop an ability to apply mathematical foundations, algorithmic 
 * 10% Midterm 1
 * 10% Midterm 2
 * 15% Final
-* 
+
 ## Daily Class Structure
 Each class day, there will be a daily quiz and an inclass group assignment on a particular topic. You are expected to come to class having studied the topic via the text, notes, and video lectures.
 
