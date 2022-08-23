@@ -46,12 +46,12 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 *   Email: kylin at hawaii (Put "ICS 311" in the subject line.)
 *   Office: POST 314
-*   Office Hours: Tuesday 1pm (select dates)  
+*   Office Hours: Tuesday 12-1pm (select dates)  
 
 #### Akib Sadmanee
 *  Email: sadmanee at hawaii (Put "ICS 311" in the subject line.)
 *   Office: POST 
-*   Office Hours: Tuesday 1pm (select dates)
+*   Office Hours: Tuesday 12-1pm (select dates)
 
 ## Communications
 
