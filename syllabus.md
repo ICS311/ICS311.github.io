@@ -45,13 +45,13 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 #### Kai-Ying "Kevin" Lin
 
 *   Email: kylin at hawaii (Put "ICS 311" in the subject line.)
-*   Office: TBD
-*   Office Hours: TBD 
+*   Office: POST 314
+*   Office Hours: Tuesday 1pm (select dates)  
 
 #### Akib Sadmanee
 *  Email: sadmanee at hawaii (Put "ICS 311" in the subject line.)
-*   Office: TBD
-*   Office Hours: TBD
+*   Office: POST 
+*   Office Hours: Tuesday 1pm (select dates)
 
 ## Communications
 
