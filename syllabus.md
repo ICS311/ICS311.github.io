@@ -51,8 +51,8 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 #### Akib Sadmanee
 *  Email: sadmanee at hawaii (Put "ICS 311" in the subject line.)
-*   Office: POST 
-*   Office Hours: Tuesday 12-1pm (select dates)
+*  Office: POST 305A
+*  Office Hours: Tuesday 12-1pm (select dates)
 
 ## Communications
 
@@ -62,7 +62,7 @@ In general, questions should be posted to discord (link in Laulima announcements
 
 _Personal Topics_
 
-For topics that are not of interest to other students or are personal, you may email us, or request a private office visit. If using email, put "ICS 311" in the subject line.
+For topics that are not of interest to other students or are personal, you may email the TAs or professor as appropriate, or request a private office visit. If using email, put "ICS 311" in the subject line.
 
 _Communication with other students (e.g., group members)_
 
