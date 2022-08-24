@@ -18,8 +18,9 @@ Online lectures are also available from the textbook authors. These chalk-on-whi
 
 [Videolectures.net](http://videolectures.net/mit6046jf05_introduction_algorithms/)
 
+<!--
 [MIT Courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
-
+-->
                                                                                                                                  
 <!--                                                                                                                                 
 ## 
@@ -57,11 +58,11 @@ We will use [**Google Docs**](https://docs.google.com/) for in-class problem sol
 
 _Questions about Course Content_
 
-In general, questions about course content such as concepts, clarifications of assignments, etc. should be posted to the Laulima discussion forum of the week. This is because (1) other students can see our responses there, and thus also benefit; and (2) other students may notice the question and answer before the instructor or TA notices it. If you email us a question, we will post the reply in Laulima unless personal information is involved.</dd>
+In general, questions should be posted to discord (link in Laulima announcements). This is because (1) other students can see our responses there, and thus also benefit; and (2) other students may notice the question and answer before the instructor or TA notices it.
 
 _Personal Topics_
 
-For topics that are not of interest to other students or are personal, you may email us, or request a private office visit. If using email, put "ICS 311" in the subject line.</dd>
+For topics that are not of interest to other students or are personal, you may email us, or request a private office visit. If using email, put "ICS 311" in the subject line.
 
 _Communication with other students (e.g., group members)_
 
