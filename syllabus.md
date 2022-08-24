@@ -95,7 +95,7 @@ Students will develop an ability to apply mathematical foundations, algorithmic 
 ## Daily Class Structure
 Each class day, there will be a daily quiz and an inclass group assignment on a particular topic. You are expected to come to class having studied the topic via the text, notes, and video lectures.
 
-* **Daily Quiz:** Do this before class on Laulima. Quiz is open in the morning. Answers will be discussed at the beginning of class.
+* **Daily Quiz:** Do this before class on Laulima. Quiz will be open at 8pm the night before and due 1pm. Answers will be discussed at the beginning of class.
 
 * **Inclass Group Assignment:** Submit this to Laulima by 5pm. Make sure to include the name of your group members on your doc. Each person should submit, but your group should submit the same document.
 
