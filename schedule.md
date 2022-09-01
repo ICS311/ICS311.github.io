@@ -59,7 +59,7 @@ This schedule subject to change.
 #### Week 8: Midterm Results Review; Intro to Dynamic Programming
 
 *   **Mo 10/10 - #11 - Balanced Trees (2-3-4 and Red-Black)**:  
-    Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html); screencasts 11*; [MIT Lecture 10](http://videolectures.net/mit6046jf05_demaine_lec10/). (Read Sedgewick first to understand the 2-4 tree and how a RBT is a representation of a 2-4 tree. Allow extra time for this material!).
+    Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html); screencasts 11*; [MIT Lecture 10](http://videolectures.net/mit6046jf05_demaine_lec10/). (Read Sedgewick first to understand the 2-4 tree and how a RBT is a representation of a 2-4 tree.).
 <!--*   **Mon 10/10 - Midterm Results/Review (no quiz)**-->
 *   **Tue 10/11 - Problem Set #5** (Topics 9 & 10a, quicksort) due 23:55 (11:55 pm)
 *   **Wed 10/12 - Intro to Dynamic Programming (no quiz)**
@@ -67,35 +67,35 @@ This schedule subject to change.
 #### Week 9: Problem Solving with Dynamic Programming and Greedy Algorithms
 
 *   **Mon 10/17 - #12 - Dynamic Programming**:  
-    CLRS Chapter 15 (and optionally Sedgewick Chapter 37); [Topic 12 Notes](Notes/Topic-12.html); screencasts 12*; [MIT Lecture 15](http://videolectures.net/mit6046jf05_leiserson_lec15/)
+    CLRS Chapter 14 (and optionally Sedgewick Chapter 37); [Topic 12 Notes](Notes/Topic-12.html); screencasts 12*; [MIT Lecture 15](http://videolectures.net/mit6046jf05_leiserson_lec15/)
 *   **Tue 10/18 - Problem Set #6** (Topics 10b linear sorts & 11) due 23:55 (11:55 pm)
 *   **Wed 10/19- #13 - Greedy Algorithms** (and how they compare to DP):  
-    CLRS Sections 16.1-16.3; [Topic 13 Notes](Notes/Topic-13.html); screencasts 13*; [(MIT Lecture 16:](http://videolectures.net/mit6046jf05_leiserson_lec16/) only briefly mentioned at 48:16)
+    CLRS Sections 15.1-15.3; [Topic 13 Notes](Notes/Topic-13.html); screencasts 13*; [(MIT Lecture 16:](http://videolectures.net/mit6046jf05_leiserson_lec16/) only briefly mentioned at 48:16)
 
 #### Week 10: Graph Representations and Basic Algorithms
 
 *   **Mon 10/24 - #14A - Graph Representations and Breadth-First Search**:  
-    CLRS 22.1-22.2; Goodrich & Tamassia section on Graph Representations in Laulima; Optionally Newman (2010) chapter 9 in Laulima; [Topic 14 Notes](Notes/Topic-14.html); screencasts 14A-C; [MIT Lecture 16](http://videolectures.net/mit6046jf05_leiserson_lec16/) (just the first few minutes for graph representations; the rest focuses on MST).  
+    CLRS 20.1-20.2; Goodrich & Tamassia section on Graph Representations in Laulima; Optionally Newman (2010) chapter 9 in Laulima; [Topic 14 Notes](Notes/Topic-14.html); screencasts 14A-C; [MIT Lecture 16](http://videolectures.net/mit6046jf05_leiserson_lec16/) (just the first few minutes for graph representations; the rest focuses on MST).  
 
 *   **Tue 10/25 - Problem Set #7** (Topics 12 & 13) due 23:55 (11:55 pm)
-*   **Wed 10/26 - #14B - Depth-First Search, Topological Sort, and Strongly Connected Components**: CLRS 22.3-22.5; screencasts 14D-F.
+*   **Wed 10/26 - #14B - Depth-First Search, Topological Sort, and Strongly Connected Components**: CLRS 20.3-20.5; screencasts 14D-F.
 
 #### Week 11: Amortized Analysis, Union-Find, and Minimum Spanning Trees
 
 *   **Mo 10/31 - #15 - Amortized Analysis & #16 - Sets and Union-Find**:  
-    CLRS 17.1-17.2, 21.1, & 21.3; Also see Lemma 21.11, 21.12, 21.13 and Theorem 21.14; [Topic 15 Notes](Notes/Topic-15.html) (skip Potential Method) & [Topic 16 Notes](Notes/Topic-16.html) (skip Linked List representation: Forest is much better); [MIT Lecture 13](http://videolectures.net/mit6046jf05_leiserson_lec13/)
+    CLRS 16.1-16.2, 19.1, & 19.3. [Topic 15 Notes](Notes/Topic-15.html) (skip Potential Method) & [Topic 16 Notes](Notes/Topic-16.html) (skip Linked List representation: Forest is much better); [MIT Lecture 13](http://videolectures.net/mit6046jf05_leiserson_lec13/)
 <!--*   **TBD??? - Last day for withdrawal with W**-->
 *   **Tue 11/01 - Problem Set #8** (Topic 14) due 23:55 (11:55 pm)
 *   **Wed 11/02 - #17 - Minimum Spanning Trees**:  
-    CLRS Chapter 23; [Topic 17 Notes](Notes/Topic-17.html); screencasts 17*; [MIT Lecture 16](http://videolectures.net/mit6046jf05_leiserson_lec16/) (second part).
+    CLRS Chapter 21; [Topic 17 Notes](Notes/Topic-17.html); screencasts 17*; [MIT Lecture 16](http://videolectures.net/mit6046jf05_leiserson_lec16/) (second part).
 
 #### Week 12: Finding Shortest Paths in Graphs
 
 *   **Mon 11/08 - #18 - Single-Source Shortest Paths**:  
-    CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html); screencasts 18*; [MIT Lecture 17](http://videolectures.net/mit6046jf05_demaine_lec17/), [MIT Lecture 18](http://videolectures.net/mit6046jf05_demaine_lec18/) (first half)
+    CLRS Sections 22.1-22.3; [Topic 18 Notes](Notes/Topic-18.html); screencasts 18*; [MIT Lecture 17](http://videolectures.net/mit6046jf05_demaine_lec17/), [MIT Lecture 18](http://videolectures.net/mit6046jf05_demaine_lec18/) (first half)
 *   **Tue 11/09** Problem Set #9 (Topic 15, 16 & 17) due 23:55 (11:55 pm)
 *   **Wed 11/10 - #19 - All-Pairs Shortest Paths**:
-    CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html); screencasts 19*; [MIT Lecture 19](http://videolectures.net/mit6046jf05_demaine_lec19/)
+    CLRS Chapter 23; [Topic 19 Notes](Notes/Topic-19.html); screencasts 19*; [MIT Lecture 19](http://videolectures.net/mit6046jf05_demaine_lec19/)
 
 #### Week 13: Shortest Paths Continued; Midterm
 
@@ -106,12 +106,12 @@ This schedule subject to change.
 
 *   **Mon 11/21** - Review of Midterm Results
 *   **Wed 11/23 - #20 - Maximum Flow**:  
-    CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html); screencasts 20*.
+    CLRS Sections 24.1-24.3; [Topic 20 Notes](Notes/Topic-20.html); screencasts 20*.
 
 #### Week 15: Multithreading; NP-Completeness
 
-*   **Mon 11/28 - #22 - Multithreading**:  
-    CLRS Chapter 27 (emphasis on sections 27.1 and 27.3); [Topic 22 Notes](Notes/Topic-22.html); no screencasts.
+*   **Mon 11/28 - #22 - Parallel Algorithms**:  
+    CLRS Chapter 26 (emphasis on sections 26.1 and 26.3); [Topic 22 Notes](Notes/Topic-22.html); no screencasts.
 *   **Wed 11/30 - #24 - Complexity Theory & NP-Completeness**:  
     CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html); screencasts 24*; not covered in MIT video lectures.
 
