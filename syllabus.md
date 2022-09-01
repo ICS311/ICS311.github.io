@@ -16,7 +16,7 @@ Lectures are available on [YouTube](https://www.youtube.com/user/UHMICSAlgorithm
                                                                                                                                  
 Online lectures are also available from the textbook authors. These chalk-on-whiteboard lectures were recorded in an MIT classroom in 2005. Two versions are available:
 
-[Videolectures.net](http://videolectures.net/mit6046jf05_introduction_algorithms/)
+[Videolectures.net](http://videolectures.net/mit6046jf05_introduction_algorithms/) or this [link](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/)
 
 <!--
 [MIT Courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
