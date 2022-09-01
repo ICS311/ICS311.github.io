@@ -14,15 +14,15 @@ This schedule subject to change.
 
 *   **Mon 08/29 - #2 - Examples of Analysis with Merge Sort**:  
     Rest of CLRS Chapter 2; rest of [Topic 02 Notes](Notes/Topic-02.html); screencasts 02D and 02E. Don't forget **Quiz on remainder of Topic 02**.
-*   **Tue 08/30 - Problem Set #0** (Topic 1) due 23:55 (11:55 pm) in Laulima
-*   **Wed 08/31- #3 - Growth of Functions and Asymptotic Concepts**:  
+*   **Tue 08/30 - Problem Set #00** (Topic 1) due 23:55 (11:55 pm) in Laulima
+*   **Wed 08/31- #3 - Characterizing Run Times**:  
     CLRS Chapter 3; [Topic 03 Notes](Notes/Topic-03.html) ; screencasts 03*, available in Laulima and YouTube; [MIT Lecture 02](http://videolectures.net/mit6046jf05_demaine_lec02/) (beginning-16:50).
 
 #### Week 3: Analysis of Basic Data Structures
 
 *   **Mon 09/05 - Holiday (Labor Day)**
-*   **Tue 09/06 - Problem Set #1** (Topic 2) due 23:55 (11:55 pm) in Laulima
-*   **Wed 09/07 - #4 - Basic ADTs (Stacks, Queues, Lists and Trees)**:  
+*   **Tue 09/06 - Problem Set #01** (Topic 2) due 23:55 (11:55 pm) in Laulima
+*   **Wed 09/07 - #4 - Review of Basic ADTs (Stacks, Queues, Lists and Trees)**:  
     CLRS Chapter 10; [Topic 04 Notes](Notes/Topic-04.html); screencasts 04* in Laulima and YouTube; (not covered in MIT video lectures).
 
 #### Week 4: Probabilistic Analysis, Randomization, and Hash Tables
