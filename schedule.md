@@ -61,7 +61,7 @@ This schedule subject to change.
 *   **Mo 10/10 - #11 - Balanced Trees (2-3-4 and Red-Black)**:  
     Sedgewick Chapter 15 & CLRS Chapter 13; [Topic 11 Notes](Notes/Topic-11.html); screencasts 11*; [MIT Lecture 10](http://videolectures.net/mit6046jf05_demaine_lec10/). (Read Sedgewick first to understand the 2-4 tree and how a RBT is a representation of a 2-4 tree.).
 <!--*   **Mon 10/10 - Midterm Results/Review (no quiz)**-->
-*   **Tue 10/11 - Problem Set #5** (Topics 9 & 10a, quicksort) due 23:55 (11:55 pm)
+*   **Tue 10/11 - Problem Set #5** (Topics 9 & 10a, quicksort) ~~due 23:59 ~~Deadline extended to 10/17 11:59pm.
 *   **Wed 10/12 - Intro to Dynamic Programming (no quiz)**
 
 #### Week 9: Problem Solving with Dynamic Programming and Greedy Algorithms
