@@ -126,7 +126,7 @@ This schedule subject to change.
 
 #### Finals Week:
 
-*   **TBD: Final Exam ** - Cumulative on all topics (1-20, 22, 24, & 25). 
+*   **Final Exam ** - Cumulative on all topics (1-20, 22, 24, & 25). [F 12:00 – 2:00 pm](https://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/) 
 
 * * *
 <!--
