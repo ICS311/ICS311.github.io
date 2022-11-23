@@ -108,18 +108,18 @@ This schedule subject to change.
 *   **Wed 11/23 - #20 - Maximum Flow**:  
     CLRS Sections 24.1-24.3; [Topic 20 Notes](Notes/Topic-20.html); screencasts 20*.
 
-#### Week 15: Multithreading; NP-Completeness
+#### Week 15: Complexity Theory; NP-Completeness
 
-*   **Mon 11/28 - #22 - Parallel Algorithms**:  
-    CLRS Chapter 26 (emphasis on sections 26.1 and 26.3); [Topic 22 Notes](Notes/Topic-22.html); no screencasts.
-*   **Wed 11/30 - #24 - Complexity Theory & NP-Completeness**:  
-    CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html); screencasts 24*; not covered in MIT video lectures.
+*   **Mon 11/28 - #24 - Complexity Theory & NP-Completeness**:  
+    CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html); screencasts 24*; not covered in MIT video lectures. 
+*   **Wed 11/30 - Complexity Theory & NP-Completeness** (continued)
 
-#### Week 16: Complexity Theory; Review
+#### Week 16: Multithreading; Review
 
 <!--- *   **Mo 12/06 - #25 - Approximation Algorithms**:  
     CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html); screencasts 25*; not covered in MIT video lectures.  --->
-*   **Mon 12/05 - Complexity Theory & NP-Completeness** (continued)
+*   **Mon 12/05 - #22 - Parallel Algorithms**:  
+    CLRS Chapter 26 (emphasis on sections 26.1 and 26.3); [Topic 22 Notes](Notes/Topic-22.html); no screencasts.
 *   **Wed 12/07** - Review (LAST DAY CLASS). Review for final exam.
 
 * * *
