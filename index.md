@@ -49,13 +49,13 @@ This course covers the following topics. See [Schedule](schedule.md) for more de
 *   **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
 *   **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
 *   **#24 - NP-Completeness and Complexity Theory**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
-*   **#25 - Approximation Algorithms**: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework) <!--Complexity Theory (continued)-->
 
 
 Other topics not covered:
 
-*   <u>#21 - Linear Programming</u>: Sedgewick (1983) Chapters 5 and 38 (read these first); CLRS Sections 29.0-29.3 (half way); [Topic 21 Notes](Notes/Topic-21.html)
-*   <u>#23 String Matching</u>: CLRS Chapter 32 (emphasis on sections 32.1 and 32.3); [Topic 23 Notes](Notes/Topic-23.html)
+*   #21 - Linear Programming: Sedgewick (1983) Chapters 5 and 38 (read these first); CLRS Sections 29.0-29.3 (half way); [Topic 21 Notes](Notes/Topic-21.html)
+*   #23 String Matching: CLRS Chapter 32 (emphasis on sections 32.1 and 32.3); [Topic 23 Notes](Notes/Topic-23.html)
+*   #25 - Approximation Algorithms: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)
 *   <u>Public Key Encryption</u>: CLRS Chapter 31 (emphasis on 31.7). No web notes or videos have been made.
 <!--*   <u>#25 - Approximation Algorithms</u>: CLRS Chapter 35; [Topic 25 Notes](Notes/Topic-25.html) (no homework)-->
 
