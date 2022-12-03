@@ -126,7 +126,7 @@ This schedule subject to change.
 
 #### Finals Week:
 
-*   **Final Exam ** - Cumulative on all topics (1-20, 22, 24, & 25). [F 12:00 – 2:00 pm](https://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/) 
+*   **Final Exam ** - Cumulative on all topics. [Section 1: F 12:00 – 2:00 pm, Section 2: F 2:15 - 4:15](https://manoa.hawaii.edu/undergrad/schedule/final-exams/fall/) 
 
 * * *
 <!--
