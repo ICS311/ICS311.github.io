@@ -47,7 +47,7 @@ This course covers the following topics. See [Schedule](schedule.md) for more de
 *   **#18 - Single-Source Shortest Paths**: CLRS Sections 24.1-24.3; [Topic 18 Notes](Notes/Topic-18.html)
 *   **#19 - All-Pairs Shortest Paths**: CLRS Chapter 25; [Topic 19 Notes](Notes/Topic-19.html)
 *   **#20 - Maximum Flow**: CLRS Sections 26.1-26.3; [Topic 20 Notes](Notes/Topic-20.html)
-*   **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html)
+*   **#22 - Multithreading**: CLRS Chapter 27 (emphasis on sections 27.1 and 27.3), [Topic 22 Notes](Notes/Topic-22.html) (Topic 22 may be covered after Topic 24 - Check the schedule)
 *   **#24 - NP-Completeness and Complexity Theory**: CLRS Chapter 34; [Topic 24 Notes](Notes/Topic-24.html) (no homework)
 
 
