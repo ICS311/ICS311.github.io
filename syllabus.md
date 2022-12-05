@@ -103,7 +103,7 @@ Each class day, there will be a daily quiz and an inclass group assignment on a 
 
 Discussion of homework problems is strongly encouraged. However, students must write their solutions in their own words. Sharing of written solutions is expressly prohibited. Violations will be reported to the Office of Student Conduct and result in zero credit.
 
-Homework assignments will be due at 11:55pm on the due date, but will be accepted until 8am the next morning without penalty.
+Homework assignments will be due at 11:55pm on the due date, but can be submitted until 8am the next morning without penalty. *As a caveat, if you plan to turn in the assignment past 11:55pm, do not submit your work until you are finished as you will not be able to unsubmit and edit your work. 
 
 ## Late Work
 
